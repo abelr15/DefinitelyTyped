@@ -2,6 +2,6 @@
     "private": true,
     "dependencies": {
         "globby": "11.x.x",
-        "postcss": "7.x.x"
+        "postcss": "8.4.31"
     }
 }
